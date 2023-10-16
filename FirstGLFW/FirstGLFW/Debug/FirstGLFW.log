@@ -1,0 +1,3 @@
+﻿  FirstGLFW.cpp
+D:\Akhdan\KULIAH\SEMESTER 5\Grafika_Komputer\Project\FirstGLFW\FirstGLFW\FirstGLFW.cpp(45,5): warning C4305: 'initializing': truncation from 'double' to 'float'
+  FirstGLFW.vcxproj -> D:\Akhdan\KULIAH\SEMESTER 5\Grafika_Komputer\Project\FirstGLFW\Debug\FirstGLFW.exe
