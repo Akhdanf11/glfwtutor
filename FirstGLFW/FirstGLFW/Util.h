@@ -17,7 +17,7 @@ string readFile(string fileName) {
 		fileText += tempText + "\n";
 	}
 
-	cout << fileText << endl;
+	//cout << fileText << endl;
 
 	return fileText;
 }

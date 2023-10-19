@@ -1,3 +1,4 @@
 ﻿  FirstGLFW.cpp
-D:\Akhdan\KULIAH\SEMESTER 5\Grafika_Komputer\Project\FirstGLFW\FirstGLFW\FirstGLFW.cpp(45,5): warning C4305: 'initializing': truncation from 'double' to 'float'
-  FirstGLFW.vcxproj -> D:\Akhdan\KULIAH\SEMESTER 5\Grafika_Komputer\Project\FirstGLFW\Debug\FirstGLFW.exe
+D:\Kuliah\Semester V\Grafika Komputer\UTS_GK\FirstGLFW\FirstGLFW\FirstGLFW.cpp(18,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Kuliah\Semester V\Grafika Komputer\UTS_GK\FirstGLFW\FirstGLFW\FirstGLFW.cpp(190,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  FirstGLFW.vcxproj -> D:\Kuliah\Semester V\Grafika Komputer\UTS_GK\FirstGLFW\Debug\FirstGLFW.exe
